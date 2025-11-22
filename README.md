@@ -8,4 +8,6 @@ AI-driven educational platform designed for students in Indian government school
 2) [Google ADK](https://github.com/Reshmagvs/Google_adk_agents)
 Various types of agents made using google ADK for stock analysis .
 
-3) [Chatbot using Chatling](https://github.com/Reshmagvs/BrewBot_workshop)
+3) [Chatbot using Chatling](https://github.com/Reshmagvs/BrewBot_workshop) Created a coffee shop chat bot assistant for starbucks .
+
+4) [Gmail Automator](https://github.com/Reshmagvs/Draft_Gmail_automator) Using n8n , created a AI agent for automation of emails .
