@@ -6,6 +6,6 @@ This repository is a collection of all my agent development and agent automation
 AI-driven educational platform designed for students in Indian government schools. It provides personalized, multilingual tutoring in foundational literacy and numeracy .
 
 2) [Google ADK](https://github.com/Reshmagvs/Google_adk_agents)
-Various types of agenyts amde using google ADK for stock analysis .
+Various types of agents made using google ADK for stock analysis .
 
 3) [Chatbot using Chatling](https://github.com/Reshmagvs/BrewBot_workshop)
